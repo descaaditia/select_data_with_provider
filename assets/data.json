@@ -1,0 +1,26 @@
+{
+    "nama":"Wiro Sableng",
+    "umur": 25,
+    "info": {
+        "alamat": "Jakarta",
+        "wa" : "08568222222"
+    },
+    "pengalaman":[
+        {
+            "kantor" : "PT MIKA JOSS",
+            "lama_pengalaman" : 5,
+            "profesi" : "Gali Kubur"
+        },
+        {
+            "kantor" : "PT MAJU MUNDUR",
+            "lama_pengalaman" : 1,
+            "profesi" : "Kang Begal"
+        },
+        {
+            "kantor" : "PT OGAH RUGI",
+            "lama_pengalaman" : 3,
+            "profesi" : "Kang Sapu"
+        }
+        
+    ]
+}
